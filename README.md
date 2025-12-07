@@ -4,7 +4,7 @@
 
 - **Name:** Delaney Hickey
 - **GitHub Repo:** https://github.com/delaneyhickey24/java-copilot-demo
-- **Screencast Video:** <LINK_TO_YOUR_VIDEO>
+- **Screencast Video:** https://youtu.be/T1ac35A_Ars?si=BdobxdgsSuoipHnR
 - **IDE:** Visual Studio Code (version <VSCODE_VERSION>)
 - **Screencast Software:** OBS Studio (version <OBS_VERSION>)
 
@@ -29,3 +29,4 @@ The program prints a greeting, calculates the factorial of a number, and compute
    ```bash
    git clone https://github.com/<YOUR_GITHUB_USERNAME>/java-copilot-demo.git
    cd java-copilot-demo
+
